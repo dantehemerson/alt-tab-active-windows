@@ -1,0 +1,8 @@
+{
+  "uuid": "alt-tab-active-windows@github.com",
+  "name": "Alt-Tab Active Windows",
+  "description": "Only show active(not minimized) windows on Alt-Tab",
+  "version": 1,
+  "shell-version": ["3.30", "3.32"],
+  "url": "https://github.com/dantehemerson/alt-tab-active-windows"
+}
