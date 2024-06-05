@@ -3,6 +3,6 @@
   "name": "Alt-Tab Active Windows",
   "description": "Only show active(not minimized) windows on Alt-Tab",
   "version": 1,
-  "shell-version": ["40", "41", "42", "43"],
+  "shell-version": ["40", "41", "42", "43", "44"],
   "url": "https://github.com/dantehemerson/alt-tab-active-windows"
 }
